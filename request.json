@@ -1,0 +1,20 @@
+{
+    "content": null,
+    "embeds": [
+        {
+            "title": "title",
+            "description": "desc",
+            "url": "webhook url",
+            "color": 129776,
+            "author": {
+                "name": "author name"
+            },
+            "image": {
+                "url": "image"
+            }
+        }
+    ],
+    "username": "username",
+    "avatar_url": "hpfp link",
+    "attachments": []
+}
